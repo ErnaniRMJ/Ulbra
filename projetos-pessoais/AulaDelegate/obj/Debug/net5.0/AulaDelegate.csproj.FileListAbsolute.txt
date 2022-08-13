@@ -1,0 +1,32 @@
+/Users/arthurrocha/Developer/Aulas-c#/AulaDelegate/bin/Debug/net5.0/AulaDelegate.deps.json
+/Users/arthurrocha/Developer/Aulas-c#/AulaDelegate/bin/Debug/net5.0/AulaDelegate.runtimeconfig.json
+/Users/arthurrocha/Developer/Aulas-c#/AulaDelegate/bin/Debug/net5.0/AulaDelegate.runtimeconfig.dev.json
+/Users/arthurrocha/Developer/Aulas-c#/AulaDelegate/bin/Debug/net5.0/AulaDelegate.dll
+/Users/arthurrocha/Developer/Aulas-c#/AulaDelegate/bin/Debug/net5.0/AulaDelegate.pdb
+/Users/arthurrocha/Developer/Aulas-c#/AulaDelegate/obj/Debug/net5.0/AulaDelegate.csproj.AssemblyReference.cache
+/Users/arthurrocha/Developer/Aulas-c#/AulaDelegate/obj/Debug/net5.0/AulaDelegate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arthurrocha/Developer/Aulas-c#/AulaDelegate/obj/Debug/net5.0/AulaDelegate.AssemblyInfoInputs.cache
+/Users/arthurrocha/Developer/Aulas-c#/AulaDelegate/obj/Debug/net5.0/AulaDelegate.AssemblyInfo.cs
+/Users/arthurrocha/Developer/Aulas-c#/AulaDelegate/obj/Debug/net5.0/AulaDelegate.csproj.CoreCompileInputs.cache
+/Users/arthurrocha/Developer/Aulas-c#/AulaDelegate/obj/Debug/net5.0/AulaDelegate.dll
+/Users/arthurrocha/Developer/Aulas-c#/AulaDelegate/obj/Debug/net5.0/ref/AulaDelegate.dll
+/Users/arthurrocha/Developer/Aulas-c#/AulaDelegate/obj/Debug/net5.0/AulaDelegate.pdb
+/Users/arthurrocha/Developer/Aulas-c#/AulaDelegate/obj/Debug/net5.0/AulaDelegate.genruntimeconfig.cache
+/Users/arthurrocha/Developer/Aulas-c#/AulaDelegate/bin/Debug/net5.0/AulaDelegate
+/Users/arthurrocha/Developer/Aulas-c#/AulaDelegate/obj/Debug/net5.0/refint/AulaDelegate.dll
+C:\Users\Ernani Jr\Desktop\Ulbra\projetos-pessoais\AulaDelegate\bin\Debug\net5.0\AulaDelegate.exe
+C:\Users\Ernani Jr\Desktop\Ulbra\projetos-pessoais\AulaDelegate\bin\Debug\net5.0\AulaDelegate.deps.json
+C:\Users\Ernani Jr\Desktop\Ulbra\projetos-pessoais\AulaDelegate\bin\Debug\net5.0\AulaDelegate.runtimeconfig.json
+C:\Users\Ernani Jr\Desktop\Ulbra\projetos-pessoais\AulaDelegate\bin\Debug\net5.0\AulaDelegate.runtimeconfig.dev.json
+C:\Users\Ernani Jr\Desktop\Ulbra\projetos-pessoais\AulaDelegate\bin\Debug\net5.0\AulaDelegate.dll
+C:\Users\Ernani Jr\Desktop\Ulbra\projetos-pessoais\AulaDelegate\bin\Debug\net5.0\ref\AulaDelegate.dll
+C:\Users\Ernani Jr\Desktop\Ulbra\projetos-pessoais\AulaDelegate\bin\Debug\net5.0\AulaDelegate.pdb
+C:\Users\Ernani Jr\Desktop\Ulbra\projetos-pessoais\AulaDelegate\obj\Debug\net5.0\AulaDelegate.csproj.AssemblyReference.cache
+C:\Users\Ernani Jr\Desktop\Ulbra\projetos-pessoais\AulaDelegate\obj\Debug\net5.0\AulaDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ernani Jr\Desktop\Ulbra\projetos-pessoais\AulaDelegate\obj\Debug\net5.0\AulaDelegate.AssemblyInfoInputs.cache
+C:\Users\Ernani Jr\Desktop\Ulbra\projetos-pessoais\AulaDelegate\obj\Debug\net5.0\AulaDelegate.AssemblyInfo.cs
+C:\Users\Ernani Jr\Desktop\Ulbra\projetos-pessoais\AulaDelegate\obj\Debug\net5.0\AulaDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Ernani Jr\Desktop\Ulbra\projetos-pessoais\AulaDelegate\obj\Debug\net5.0\AulaDelegate.dll
+C:\Users\Ernani Jr\Desktop\Ulbra\projetos-pessoais\AulaDelegate\obj\Debug\net5.0\ref\AulaDelegate.dll
+C:\Users\Ernani Jr\Desktop\Ulbra\projetos-pessoais\AulaDelegate\obj\Debug\net5.0\AulaDelegate.pdb
+C:\Users\Ernani Jr\Desktop\Ulbra\projetos-pessoais\AulaDelegate\obj\Debug\net5.0\AulaDelegate.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Ernani Jr\Desktop\Ulbra\projetos-pessoais\exercicio08-08\obj\Debug\net5.0\exercicio08-08.csproj.AssemblyReference.cache
+C:\Users\Ernani Jr\Desktop\Ulbra\projetos-pessoais\exercicio08-08\obj\Debug\net5.0\exercicio08-08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ernani Jr\Desktop\Ulbra\projetos-pessoais\exercicio08-08\obj\Debug\net5.0\exercicio08-08.AssemblyInfoInputs.cache
+C:\Users\Ernani Jr\Desktop\Ulbra\projetos-pessoais\exercicio08-08\obj\Debug\net5.0\exercicio08-08.AssemblyInfo.cs
+C:\Users\Ernani Jr\Desktop\Ulbra\projetos-pessoais\exercicio08-08\obj\Debug\net5.0\exercicio08-08.csproj.CoreCompileInputs.cache
+C:\Users\Ernani Jr\Desktop\Ulbra\projetos-pessoais\exercicio08-08\bin\Debug\net5.0\exercicio08-08.exe
+C:\Users\Ernani Jr\Desktop\Ulbra\projetos-pessoais\exercicio08-08\bin\Debug\net5.0\exercicio08-08.deps.json
+C:\Users\Ernani Jr\Desktop\Ulbra\projetos-pessoais\exercicio08-08\bin\Debug\net5.0\exercicio08-08.runtimeconfig.json
+C:\Users\Ernani Jr\Desktop\Ulbra\projetos-pessoais\exercicio08-08\bin\Debug\net5.0\exercicio08-08.runtimeconfig.dev.json
+C:\Users\Ernani Jr\Desktop\Ulbra\projetos-pessoais\exercicio08-08\bin\Debug\net5.0\exercicio08-08.dll
+C:\Users\Ernani Jr\Desktop\Ulbra\projetos-pessoais\exercicio08-08\bin\Debug\net5.0\ref\exercicio08-08.dll
+C:\Users\Ernani Jr\Desktop\Ulbra\projetos-pessoais\exercicio08-08\bin\Debug\net5.0\exercicio08-08.pdb
+C:\Users\Ernani Jr\Desktop\Ulbra\projetos-pessoais\exercicio08-08\obj\Debug\net5.0\exercicio08-08.dll
+C:\Users\Ernani Jr\Desktop\Ulbra\projetos-pessoais\exercicio08-08\obj\Debug\net5.0\ref\exercicio08-08.dll
+C:\Users\Ernani Jr\Desktop\Ulbra\projetos-pessoais\exercicio08-08\obj\Debug\net5.0\exercicio08-08.pdb
+C:\Users\Ernani Jr\Desktop\Ulbra\projetos-pessoais\exercicio08-08\obj\Debug\net5.0\exercicio08-08.genruntimeconfig.cache
