@@ -1,0 +1,64 @@
+* {
+    margin: 0 auto;
+}
+
+body{
+    background-color: #e2e2e2;
+}
+
+.divTudo{
+    font-family: arial,sans-serif;
+}
+
+.divlinha{
+    clear: both;
+}
+
+.h2TituloSessao{
+    font-size: 20px;
+}
+
+/* estilos de cabecalho geral */
+#divCabecalho{
+    background-color: #162e58;
+    min-height: 100px;
+    padding: 20px 50px 10px 50px;
+}
+#h1tituloCabecccalho{
+    color: #ffffff;
+    float: left;
+    min-width: 50%;
+    font-size: 16px;
+    text-align: left;
+}
+
+/* estilos classificacao */
+
+#divclassificacao{
+    width: 100%;
+    background: #ffffff;
+}
+
+#h3TituloGrupo{
+    font-size: 14px;
+}
+
+/* estilos goleadores*/
+#divGoleadores{
+    width: 50%;
+}
+
+#tableGoleadores{
+    width: 100%;
+    background-color: #ffffff;
+}
+
+/* estilos jogos*/
+#divJoggos{
+    width:50%;
+}
+
+#tableJogos{
+    width: 100%;
+    background-color: #ffffff;
+}

@@ -35,14 +35,7 @@ idadeFunc = int(input("qual sua idade ?"))
 tempoServico = float(input("tempo de trabalho ?"))
 ValorSf = float(int("valor salari familia ?"))
 
-
-
-
-
-
-
-
-
-    
-
-
+salarioBruto = horasTrabalhadas * valorHora
+inss = (8.5)
+salarioLiq = salarioBruto / 100 * 8.5
+salarioFamilia = 
