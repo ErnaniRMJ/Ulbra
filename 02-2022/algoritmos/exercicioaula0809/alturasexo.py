@@ -38,4 +38,4 @@ ValorSf = float(int("valor salari familia ?"))
 salarioBruto = horasTrabalhadas * valorHora
 inss = (8.5)
 salarioLiq = salarioBruto / 100 * 8.5
-salarioFamilia = 
+salarioFamilia =
