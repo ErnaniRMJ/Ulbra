@@ -12,5 +12,17 @@ quinta = 5
 sexta = 6
 sabado = 7
 
-if diaSemana == 1, 2 ,3 ,4 ,5 ,6 ,7:
-    print("")
+if diaSemana == domingo:
+    print("Domingo")
+elif diaSemana == segunda:
+    print("Segunda")
+elif diaSemana == terca:
+    print("terca")
+elif diaSemana == quarta:
+    print("Quarta")
+elif diaSemana == quinta:
+    print("sexta")
+elif diaSemana == sexta:
+     print("Sabado")
+else:
+    print("Opicao invalida !")
