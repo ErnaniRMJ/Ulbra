@@ -1,0 +1,41 @@
+img {
+    display: block;
+    max-width: 100%;
+}
+
+li {
+    list-style: none;
+}
+
+.header {
+    margin-bottom: 0 !important;
+    background-color: coral !important;
+}
+
+.noticias {
+    margin-top: 20px;
+}
+
+.barra-lateral {
+    margin-top: 20px;
+    padding: 20px 0px 20px 0px;
+}
+
+.colunistas {
+    border-radius: 100%;
+}
+
+.footer {
+    background-color: coral;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.icon-whatsapp {
+    max-width: 24px;
+}
+
+.list-icons {
+    display: flex;
+}

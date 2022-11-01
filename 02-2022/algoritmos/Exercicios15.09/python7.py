@@ -25,4 +25,4 @@ elif diaSemana == quinta:
 elif diaSemana == sexta:
      print("Sabado")
 else:
-    print("Opicao invalida !")
+    print("Opcao invalida !")

@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title> - AP1 CSS Grid Layout</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Página de notícias, fornecendo informações e artigos." />
+        <meta name="keywords" content="informacoes, videos, arquivos" />
+        <meta name="autor" content="Ernani Ramos Maciel Jr" />
+    <link rel="stylesheet"  type="text/css" href="style.css" />
+    
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+     <!-- /bootstrap-->
+</head>
+<body>
+    <div id="wrap">
+        <header class="jumbotron text-center header">
+            <h1 class="display-3 text white"><strong>GAÚCHAZH</strong></h1>
+        </header>
+        <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" target="_blank" href="https://gauchazh.clicrbs.com.br/?audio_autoplay=true">OUÇA A GAÚCHA</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" target="_blank" href="https://gauchazh.clicrbs.com.br/?audio_autoplay=true">CORONAVÍRUS </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" target="_blank" href="https://gauchazh.clicrbs.com.br/esportes/gremio/ultimas-noticias/">GRÊMIO</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" target="_blank" href="https://gauchazh.clicrbs.com.br/esportes/inter/ultimas-noticias/">INTER</a>
+                </li>
+            </ul>
+        </nav>
+        <main class="container">
+            <section class="row">
+                <article class="col-md-8">
+                    <div class="row noticias">
+                        <div class="col-md-8">
+                            <h6>CORONA VÍRUS</h6>
+                            <p>Morre senhora de 73 anos vitima do corona vírus no Rio Grande do Sul</p>
+                        </div>
+                        <div class="col-md-4">
+                            <img src="arquivos/img/corona.jpg" alt="imagem html">
+                        </div>
+                    </div>
+                    <div class="row noticias">
+                        <div class="col-md-8">
+                            <h6>ENSINO SUPERIOR</h6>
+                            <p>Procuradoria entra na Justiça para Capes revogar portaria que levou a corte de bolsas de pesquisa</p>
+                        </div>
+                        <div class="col-md-4">
+                            <img src="arquivos/img/bolsas-pesq.jpg" alt="imagem html">
+                        </div>
+                    </div>
+                    <div class="row noticias">
+                        <div class="col-md-8">
+                            <h6>NAS ESTRADAS NA CIDADE</h6>
+                            <p>Com caminhões de som, prefeitura de Porto Alegre alerta sobre importância do isolamento social</p>
+                        </div>
+                        <div class="col-md-4">
+                            <img src="arquivos/img/cam-som.jpg" alt="imagem html">
+                        </div>
+                    </div>
+                    <div class="row noticias">
+                        <div class="col-md-8">
+                            <h6>NEGÓCIOS</h6>
+                            <p>Com pandemia, exportações do RS despencam</p>
+                        </div>
+                        <div class="col-md-4">
+                            <img src="arquivos/img/exp-RS.jpg" alt="imagem html">
+                        </div>
+                    </div>
+                </article>
+                <aside class="col-md-4">
+                    <div class="row barra-lateral">
+                        <div class="col-md-8">
+                            <p>O presidente de um pequeno clube que foi cutucar a CBF</p>
+                            <h6>LEONARDO OLIVEIRA</h6>
+                        </div>
+                        <div class="col-md-4">
+                            <img class="colunistas" src="arquivos/img/leo-oli.jpg" alt="imagem html">
+                        </div>
+                    </div>
+                    <div class="row barra-lateral">
+                        <div class="col-md-8">
+                            <p>Rica e poderosa Conmebol oferece migalhas na crise</p>
+                            <h6>DIOGO OLIVIER</h6>
+                        </div>
+                        <div class="col-md-4">
+                            <img class="colunistas" src="arquivos/img/diogo-oli.jpg" alt="imagem html">
+                        </div>
+                    </div>
+                    <div class="row barra-lateral">
+                        <div class="col-md-8">
+                            <h6>O GRANDE GOLPE</h6>
+                            <p>"La Casa de Papel": temporada final coloca em risco a conclusão do grande assalto</p>
+                        </div>
+                        <div class="col-md-4">
+                            <img src="arquivos/img/casa-papel.jpg" alt="imagem html">
+                        </div>
+                    </div>
+                    <div class="row barra-lateral">
+                        <div class="col-md-8">
+                            <h6>#MEUCHOCOLATEDIVINE</h6>
+                            <p>Acesse os conteúdos deliciosos e ganhe uma surpresa ao fim do quiz</p>
+                        </div>
+                        <div class="col-md-4">
+                            <img src="arquivos/img/meu-choc.jpg" alt="imagem html">
+                        </div>
+                    </div>
+                </aside>
+            </section>
+        </main>
+        <footer class="footer">
+            <h4>GAÚCHAZH</h4>
+            <p>No GaúchaZH você encontra as últimas notícias,
+                colunista exclusivo, esportes, curiosidades,
+                cultura, entretenimento e muito mais.
+            </p>
+            <div>
+                <p>GAUCHAZH</p>
+                <p>51-986783464</p>
+                <img class="icon-whatsapp" src="arquivos/icons/whatsapp.png" alt="imagem html">
+            </div>
+            <div>
+                <p>RADIO GAUCHA</p>
+                <p>51-986783464</p>
+                <img class="icon-whatsapp" src="arquivos/icons/whatsapp.png" alt="imagem html">
+            </div>
+            <div>
+                <ul class="list-icons">
+                    <li>
+                        <img src="arquivos/icons/facebook.svg" alt="imagem html">
+                    </li>
+                    <li>
+                        <img src="arquivos/icons/twitter.svg" alt="imagem html">
+                    </li>
+                    <li>
+                        <img src="arquivos/icons/instagram.svg" alt="imagem html">
+                    </li>
+                </ul>
+                <a href="#">ASSINE GAUCHAZH</a>
+            </div>
+        </footer>
+    </div>
+</body>
+</html>
